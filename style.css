@@ -8,7 +8,7 @@
 body{
   height: 100vh;
   background-color: #000;
-  background-image: url(https://unsplash.com/de/fotos/AG3ZkAsPxY0?utm_source=unsplash&utm_campaign=wallpapers-macos&utm_medium=referral&content=view-photo-on-unsplash);
+  background-image: url (https://unsplash.com/de/fotos/AG3ZkAsPxY0?utm_source=unsplash&utm_campaign=wallpapers-macos&utm_medium=referral&content=view-photo-on-unsplash);
   background-size: cover;
   background-position: center;
 }
